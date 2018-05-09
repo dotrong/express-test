@@ -23,6 +23,11 @@ var listCharacters = [
         name: "tonny",
         age: '28',
         force: "130"
+    },
+    {
+        name: "demo user",
+        age: '28',
+        force: "130"
     }
 
 ];
