@@ -25,7 +25,7 @@ var listCharacters = [
         force: "130"
     },
     {
-        name: "demo user what what",
+        name: "demo user what what 3",
         age: '28',
         force: "130"
     }
