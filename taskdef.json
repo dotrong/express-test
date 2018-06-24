@@ -1,5 +1,5 @@
 {
-    "family": "hello-world",
+    "family": "now-hello-world",
     "containerDefinitions": [
         {
             "image": "%REPOSITORY_URI%:v_%BUILD_NUMBER%",
@@ -7,7 +7,7 @@
             "cpu": 10,
             "memory": 256,
             "essential": true,
-            "portMappings": [
+            :portMappings": [
                 {
                     "containerPort":3000, 
                     "hostPort": 0
