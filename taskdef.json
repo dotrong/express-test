@@ -7,7 +7,7 @@
             "cpu": 10,
             "memory": 256,
             "essential": true,
-            :portMappings": [
+            "portMappings": [
                 {
                     "containerPort":3000, 
                     "hostPort": 0
